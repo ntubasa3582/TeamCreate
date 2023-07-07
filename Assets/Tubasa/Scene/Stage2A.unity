@@ -546,7 +546,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1950302133}
         m_TargetAssemblyTypeName: MondaiController, Assembly-CSharp
-        m_MethodName: Seikai
+        m_MethodName: Huseikai2
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -918,7 +918,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.98647726, g: 1, b: 0, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -926,7 +926,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: bd4de5a4579f98d48b5270ff7a0b70fe, type: 3}
     m_FontSize: 150
     m_FontStyle: 0
     m_BestFit: 0
@@ -938,7 +938,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\u80B4\u3092\u5E73\u4EEE\u540D\u3067\uFF1F"
+  m_Text: "\uFF1F"
 --- !u!222 &1476936529
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1034,7 +1034,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1950302133}
         m_TargetAssemblyTypeName: MondaiController, Assembly-CSharp
-        m_MethodName: Huseikai1
+        m_MethodName: Seikai
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
